@@ -1,2 +1,2 @@
 # natural_language_processing
-This contains some of the problems from kaggle.
+This repository contains all the projects and problems which are related to natural language processing.
